@@ -8,14 +8,14 @@
 
 @font-face {
     font-family: 'Bold';
-    src: url('https://raul1992gt.github.io/academy//tipografias/Montserrat-Bold.otf') format('opentype');
+    src: url('https://raul1992gt.github.io/academy/tipografias/Montserrat-Bold.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Regular';
-    src: url('https://raul1992gt.github.io/academy//tipografias/Montserrat-Regular.ttf') format('truetype');
+    src: url('https://raul1992gt.github.io/academy/tipografias/Montserrat-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
