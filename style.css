@@ -100,7 +100,6 @@
 
 body {
     font-family: 'Bold';
-    color: var(--color-texto)
 }
 
 /* Background Color */
@@ -129,6 +128,7 @@ h1 {
 
 p {
     font-size: 1.2em;
+    color: var(--color-texto)
 }
 
 img {
